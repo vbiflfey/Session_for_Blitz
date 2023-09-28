@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Session" target="0" />
+      <module name="Session" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
